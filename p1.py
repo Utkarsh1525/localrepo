@@ -5,3 +5,7 @@ print(fun(2,3))
 def funn(c):
     return c
 print(funn(8))
+
+def f(v):
+    return v
+print(f(12))
