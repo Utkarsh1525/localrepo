@@ -6,6 +6,11 @@ def funn(c):
     return c
 print(funn(8))
 
+
 def fu(g):
     return g
 print(fu(133))
+
+def f(v):
+    return v
+print(f(12))
